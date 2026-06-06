@@ -45,20 +45,6 @@ https://mern-task-manager-api-iota.vercel.app/
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-```md
-![Home Page](./screenshots/home.png)
-
-![Task List](./screenshots/tasks.png)
-
-![Search Feature](./screenshots/search.png)
-```
-
----
-
 ## ⚙️ How to Run Locally
 
 ### Clone the Repository
