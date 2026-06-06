@@ -64,7 +64,7 @@ npm install
 Create a `.env` file inside the backend folder:
 
 ```env
-PORT=5000
+PORT=8080
 MONGO_URI=your_mongodb_connection_string
 ```
 
@@ -81,6 +81,7 @@ Open a new terminal:
 ```bash
 cd frontend
 npm install
+go to src-> utils.js -> change API_URL='http://localhost:8080'
 npm start
 ```
 
